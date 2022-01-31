@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding:0;
+}
+.text-gray-600 body-font{
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/black.jpg);
+}
+.flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0{
+    background-color: aqua;
+}
